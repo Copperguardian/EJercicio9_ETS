@@ -1,0 +1,15 @@
+C:\Users\ModuloPRO\Desktop\Programación_C#\Ejercicio_ets\bin\Debug\net6.0\Ejercicio_ets.exe
+C:\Users\ModuloPRO\Desktop\Programación_C#\Ejercicio_ets\bin\Debug\net6.0\Ejercicio_ets.deps.json
+C:\Users\ModuloPRO\Desktop\Programación_C#\Ejercicio_ets\bin\Debug\net6.0\Ejercicio_ets.runtimeconfig.json
+C:\Users\ModuloPRO\Desktop\Programación_C#\Ejercicio_ets\bin\Debug\net6.0\Ejercicio_ets.dll
+C:\Users\ModuloPRO\Desktop\Programación_C#\Ejercicio_ets\bin\Debug\net6.0\Ejercicio_ets.pdb
+C:\Users\ModuloPRO\Desktop\Programación_C#\Ejercicio_ets\obj\Debug\net6.0\Ejercicio_ets.csproj.AssemblyReference.cache
+C:\Users\ModuloPRO\Desktop\Programación_C#\Ejercicio_ets\obj\Debug\net6.0\Ejercicio_ets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ModuloPRO\Desktop\Programación_C#\Ejercicio_ets\obj\Debug\net6.0\Ejercicio_ets.AssemblyInfoInputs.cache
+C:\Users\ModuloPRO\Desktop\Programación_C#\Ejercicio_ets\obj\Debug\net6.0\Ejercicio_ets.AssemblyInfo.cs
+C:\Users\ModuloPRO\Desktop\Programación_C#\Ejercicio_ets\obj\Debug\net6.0\Ejercicio_ets.csproj.CoreCompileInputs.cache
+C:\Users\ModuloPRO\Desktop\Programación_C#\Ejercicio_ets\obj\Debug\net6.0\Ejercicio_ets.dll
+C:\Users\ModuloPRO\Desktop\Programación_C#\Ejercicio_ets\obj\Debug\net6.0\refint\Ejercicio_ets.dll
+C:\Users\ModuloPRO\Desktop\Programación_C#\Ejercicio_ets\obj\Debug\net6.0\Ejercicio_ets.pdb
+C:\Users\ModuloPRO\Desktop\Programación_C#\Ejercicio_ets\obj\Debug\net6.0\Ejercicio_ets.genruntimeconfig.cache
+C:\Users\ModuloPRO\Desktop\Programación_C#\Ejercicio_ets\obj\Debug\net6.0\ref\Ejercicio_ets.dll
